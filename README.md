@@ -2,6 +2,8 @@
 
 This is a personal project that adjusts energy price data to account for local time in Amsterdam (UTC+2). It fetches energy prices using the `EnergyZero` API, adjusts the timestamps from UTC to local Amsterdam time, and applies a 2-hour shift to align the data with the local time zone.
 
+There is a better Unofficial libary: https://github.com/klaasnicolaas/python-energyzero
+
 ## What It Does
 
 This script performs the following tasks:
