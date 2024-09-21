@@ -18,6 +18,14 @@ The output is a JSON structure where:
 - **date**: The day after applying the shift.
 - **hour**: The corresponding hour for each data point, adjusted to the Amsterdam timezone.
 
+### Note
+This project was initially created when there wasn't a publicly available API or the help of advanced AI tools. I built the first version from scratch. Now, I have cleaned up the code with the help of ChatGPT and put it online for personal use.
+
+While this project is functional, there is a better, more efficient API available for accessing energy prices. If you're looking for a more robust and reliable solution, I recommend using that API for professional purposes.
+
+### Credits
+This project was created by me, with support and guidance from ChatGPT to clean up and refine the code.
+
 ### Example Output
 
 ```json
@@ -27,11 +35,3 @@ The output is a JSON structure where:
   "date": "2024-01-01",
   "hour": "00:00:00"
 }
-
-### Note
-This project was initially created when there wasn't a publicly available API or the help of advanced AI tools. I built the first version from scratch. Now, I have cleaned up the code with the help of ChatGPT and put it online for personal use.
-
-While this project is functional, there is a better, more efficient API available for accessing energy prices. If you're looking for a more robust and reliable solution, I recommend using that API for professional purposes.
-
-### Credits
-This project was created by me, with support and guidance from ChatGPT to clean up and refine the code.
