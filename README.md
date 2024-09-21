@@ -23,9 +23,6 @@ This project was initially created when there wasn't a publicly available API or
 
 While this project is functional, there is a better, more efficient API available for accessing energy prices. If you're looking for a more robust and reliable solution, I recommend using that API for professional purposes.
 
-### Credits
-This project was created by me, with support and guidance from ChatGPT to clean up and refine the code.
-
 ### Example Output
 
 ```json
